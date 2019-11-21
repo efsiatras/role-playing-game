@@ -1,0 +1,3 @@
+Grolantor;Warrior
+Hiatea;Sorcerer
+Iallanis;Paladin

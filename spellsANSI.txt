@@ -1,0 +1,11 @@
+Flame;50;1;30;60;30;firespell;10;1
+Torch;50;1;30;60;30;firespell;5;2
+Eruption;100;1;60;90;30;icespell;10;2
+Flare;120;1;60;90;50;icespell;20;2
+Blaze;150;2;60;90;50;lightingspell;20;3
+Inferno;200;3;70;100;70;firespell;30;4
+Fireball;200;3;80;110;90;firespell;50;5
+Explosion;200;3;80;110;110;lightingspell;60;6
+Meteor;200;3;100;150;130;icespell;80;8
+Salamander’s Blade;200;3;100;200;170;icespell;90;10
+Dragon Fire;250;5;100;200;170;firespell;100;12

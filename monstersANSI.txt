@@ -1,0 +1,41 @@
+Abbathor;Dragon
+Aerdrie Faenya;Exoskeleton
+Arvoreen;Exoskeleton
+Baervan Wildwanderer;Spirit
+Baravar Cloakshadow;Dragon
+Berronar Truesilver;Spirit
+Brandobaris;Exoskeleton
+Callarduran Smoothhands;Spirit
+Charmalaine;Dragon
+Clangeddin Silverbeard;Exoskeleton
+Corellon Larethian;Dragon
+Cyrrollalee;Spirit
+Deep Sashelas;Dragon
+Dugmaren Brightmantle;Exoskeleton
+Dumathoin;Dragon;Exoskeleton
+Ehlonna;Exoskeleton
+Erevan Ilesere;Exoskeleton
+Fenmarel Mestarine;Dragon
+Fharlanghn;Exoskeleton
+Flandal Steelskin;Dragon
+Gadhelyn;Exoskeleton
+Gaerdal Ironhand;Dragon
+Garl Glittergold;Dragon
+Gendwar Argrim;Dragon
+Halani Celanil;Spirit
+Heironeous;Spirit
+Labelas Enoreth;Exoskeleton
+Moradin;Dragon
+Muamman Duathal;Dragon
+Olidammara;Spirit
+Pelor;Spirit
+Rillifane Rallathil;Spirit
+Roykyn;Exoskeleton;Exoskeleton
+Segojan Earthcaller;Spirit
+Sehanine Moonbow;Dragon
+Sheela Peryroyl;Spirit
+Solonor Thelandira;Spirit
+St. Cuthbert;Dragon
+Urdlen;Exoskeleton
+Urogalan;Exoskeleton
+Vergadain;Spirit

@@ -1,0 +1,11 @@
+Potion;50;1;strength;30
+Hi-Potion;50;1;dexterity;30
+X-Potion;100;1;healthPower;60
+Mega-Potion;120;1;agility;60
+Ether;150;2;magicPower;60
+Turbo Ether;200;3;strength;70
+Elixir;200;3;strength;80
+Megalixir;200;3;agility;80
+Phoenix Down;200;3;healthPower;100
+Mega Phoenix;200;3;dexterity;100
+Antidote;250;5;healthPower;100

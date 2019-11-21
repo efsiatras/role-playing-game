@@ -1,0 +1,28 @@
+Caladbolg;50;1;30;0
+Taming Sword;50;1;30;0
+Crystal Sword;100;1;60;1
+Excalibur;120;1;60;0
+Ragnarok;150;2;60;0
+Balmung;200;3;70;0
+Save the Queen;200;3;80;0
+Heartbreaker;200;3;80;0
+Lionheart;200;3;100;1
+Durandal;200;3;100;1
+Ascalon;250;5;100;0
+Ambitious;260;5;105;0
+Hrunting;260;5;105;0
+Astral Sword;260;7;105;0
+Apocalypse;260;7;105;0
+Slowstrike;260;7;105;0
+Master Sword;300;10;130;0
+Rune-Master;300;10;130;0
+Warlock;300;10;130;0
+Arc Sword;400;12;150;0
+Gilventure;700;15;170;0
+Tri-Steel;1000;17;190;0
+Helter-Skelter;1500;20;250;0
+Vendetta;2000;25;300;0
+Avenger;3000;30;350;0
+Prism Steel;4000;35;400;1
+Mirage Sword;5000;40;450;1
+Lifesaver;6000;45;500;1
