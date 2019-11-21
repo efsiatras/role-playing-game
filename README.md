@@ -12,8 +12,8 @@ Command line based Role Playing Game (RPG).
 ### Design Decisions
 There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 - **Living**:
-
- There are two subclasses: **Hero** and **Monster**.
+   
+   There are two subclasses: **Hero** and **Monster**.
  - **Hero**: 
  
    There are three subclasses: **Warrior**, **Paladin** and **Sorcerer**.
@@ -69,25 +69,25 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
      `<Name>;<Money Cost>;<Minimum Level>;<Effect>;<Increasement>\n`
 
 - **Spell**:
+   
+   There are three subclasses: **FireSpell**, **IceSpell** and **LightingSpell**.
 
- There are three subclasses: **FireSpell**, **IceSpell** and **LightingSpell**.
+   A group of Spells is represented as a vector of pointers to Spells. Pointers were used in order to handle all the subclasses of Spells into one vector.
 
- A group of Spells is represented as a vector of pointers to Spells. Pointers were used in order to handle all the subclasses of Spells into one vector.
+   Spells are read from the file "spellsANSI.txt" in the following form:
 
- Spells are read from the file "spellsANSI.txt" in the following form:
+   `<Name>;<Money Cost>;<Minimum Level>;<Minimum Damage>;<Maximum Damage>;<Mana Cost>;<Class of Spell>;<Decreasement>;<Duration In Number Of Battle Rounds>\n`
 
- `<Name>;<Money Cost>;<Minimum Level>;<Minimum Damage>;<Maximum Damage>;<Mana Cost>;<Class of Spell>;<Decreasement>;<Duration In Number Of Battle Rounds>\n`
-
- Spells can be used infinite times.
+   Spells can be used infinite times.
 
 - **Grid**:
+   
+   Grid contains three classes: **Common**, **nonAccessible** and **Market**.
 
- Grid contains three classes: **Common**, **nonAccessible** and **Market**.
+   The map is designed and predetermined with 2 Markets.
 
- The map is designed and predetermined with 2 Markets.
-
- In battle, Heroes regenerate 5HP and 5MP, while Monsters regenerate 5HP.
+   In battle, Heroes regenerate 5HP and 5MP, while Monsters regenerate 5HP.
  
-### Contributors/Collaborators
+### Contributors / Collaborators
 - [Vasilis Panagakis](https://github.com/VasPan "Vasilis Panagakis")
 - Stathis Siatras
