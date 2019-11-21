@@ -1,15 +1,15 @@
 # Role Playing Game
 Command line based Role Playing Game (RPG).
 
-### Compilation
+## Compilation
 `$ make clean`
 
 `$ make`
 
-### Usage
+## Usage
 `$ ./rpg`
 
-### Design Decisions
+## Design Decisions
 There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 - **Living**:
    
@@ -88,6 +88,6 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 
    In battle, Heroes regenerate 5HP and 5MP, while Monsters regenerate 5HP.
  
-### Contributors / Collaborators
+## Contributors / Collaborators
 - [Vasilis Panagakis](https://github.com/VasPan "Vasilis Panagakis")
 - Stathis Siatras
