@@ -90,4 +90,4 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
  
 ## Contributors / Collaborators
 - [Vasilis Panagakis](https://github.com/VasPan "Vasilis Panagakis")
-- Stathis Siatras
+- [Stathis Siatras](https://github.com/ssiatras "Stathis Siatras")
