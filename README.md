@@ -88,6 +88,6 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 
    In battle, Heroes regenerate 5HP and 5MP, while Monsters regenerate 5HP.
  
-## Contributors / Collaborators
+## Collaborators
 - [Vassilis Panagakis](https://github.com/vaspan98 "Vasilis Panagakis")
 - [Stathis Siatras](https://github.com/ssiatras "Stathis Siatras")
