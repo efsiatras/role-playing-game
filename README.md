@@ -36,8 +36,7 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 
    The number of monsters are selected randomly (1 to 4).
 
-   Monsters are read from the file "monstersANSI.txt" in the following form:
-
+   Monsters are read from the file "monstersANSI.txt" in the following form:  
    `<Name>;<Class Of Monster>\n`
 
  - **Item**:
@@ -48,24 +47,21 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 
      A group of Armors is represented by their own vector of Armors.
 
-     Armors are read from the file "armorsANSI.txt" in the following form:
-
+     Armors are read from the file "armorsANSI.txt" in the following form:  
      `<Name>;<Money Cost>;<Minimum Level>;<Defence>\n`
 
    - **Weapon**:
 
      A group of Weapons is represented by their own vector of Weapons.
 
-     Weapons are read from the file "weaponsANSI.txt" in the following form:
-
+     Weapons are read from the file "weaponsANSI.txt" in the following form:  
      `<Name>;<Money Cost>;<Minimum Level>;<Damage>;<Two-Handed (= 1) Or One-Handed (= 0)>\n`
 
    - **Potion**:
 
      A group of Potions is represented by their own vector of Potions.
 
-     Potions are read from the file "potionsANSI.txt" in the following form:
-
+     Potions are read from the file "potionsANSI.txt" in the following form:  
      `<Name>;<Money Cost>;<Minimum Level>;<Effect>;<Increasement>\n`
 
 - **Spell**:
@@ -74,8 +70,7 @@ There are four main classes: **Living**, **Item**, **Spell** and **Grid**.
 
    A group of Spells is represented as a vector of pointers to Spells. Pointers were used in order to handle all the subclasses of Spells into one vector.
 
-   Spells are read from the file "spellsANSI.txt" in the following form:
-
+   Spells are read from the file "spellsANSI.txt" in the following form:  
    `<Name>;<Money Cost>;<Minimum Level>;<Minimum Damage>;<Maximum Damage>;<Mana Cost>;<Class of Spell>;<Decreasement>;<Duration In Number Of Battle Rounds>\n`
 
    Spells can be used infinite times.
